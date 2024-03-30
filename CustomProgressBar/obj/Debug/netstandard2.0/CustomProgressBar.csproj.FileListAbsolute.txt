@@ -1,0 +1,15 @@
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\bin\Debug\netstandard2.0\CustomProgressBar.deps.json
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\bin\Debug\netstandard2.0\CustomProgressBar.dll
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\bin\Debug\netstandard2.0\ref\CustomProgressBar.dll
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\bin\Debug\netstandard2.0\CustomProgressBar.pdb
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\CustomProgressBar.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\CustomProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\CustomProgressBar.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\CustomProgressBar.AssemblyInfo.cs
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\CustomProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\CustomProgressBar.dll
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\refint\CustomProgressBar.dll
+C:\Users\dev\Desktop\CustomProgressBar\CustomProgressBar\CustomProgressBar\obj\Debug\netstandard2.0\CustomProgressBar.pdb
